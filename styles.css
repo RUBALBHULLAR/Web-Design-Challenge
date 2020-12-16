@@ -79,24 +79,6 @@ p{
     font-size: 15px; 
     border-top-color: white !important; 
 }
-/* Footer
-footer {
-background-color: #0BADA6;
-border-top-style: solid;
-border-top-width: 5px;
-border-top-color: black;
-color: white;
-min-height: 60px;
-font-family: Arial, Helvetica, sans-serif;
-font-size: 12px;
-text-align: center;
-position: fixed;
-left: 0;
-bottom: 0;
-width: 100%;
-padding-top: 15px;
-} */
-/* Footer */
 footer{
     background-color: #666666; 
     border-top-style: solid; 
